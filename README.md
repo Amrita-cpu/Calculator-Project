@@ -13,3 +13,5 @@ Language: Python
 
 Usage:
 Clone the repository and run the project to perform calculations effortlessly.
+[calculator2.py]
+(C:\Users\DELL\Documents\OneDrive\Desktop\python_projects\calulator2.py) -Main calculator program
